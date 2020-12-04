@@ -1,0 +1,7 @@
+Lamp, 5.0
+Chair, 10.0
+Xmas Tree, 4.0
+Computer, 300.0
+Desk, 400.0
+Phone, 499.0
+Cookie, 2.0
